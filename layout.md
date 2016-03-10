@@ -2,7 +2,7 @@ untitled.html
 div_This_is_a_nice__.html
 But_I_must_explain_to__.html
 figures/figure_1/figure_1.png
+latex.tex
 On_the_other_hand_we__.html
 Organic_butcher_church_key_truffaut__.html
-latex.tex
 figures/magnetic_diffusivity/magnetic_diffusivity.png
