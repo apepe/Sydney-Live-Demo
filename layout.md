@@ -5,3 +5,4 @@ figures/figure_1/figure_1.png
 On_the_other_hand_we__.html
 div_Organic_butcher_church_key__.html
 latex.tex
+figures/magnetic_diffusivity/magnetic_diffusivity.png
